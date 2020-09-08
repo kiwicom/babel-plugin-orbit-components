@@ -4,6 +4,12 @@
 
 Transforms destructured imports of `@kiwicom/orbit-components` to granular ones!
 
+---
+
+**Note**: This project was moved to the [monorepo](https://github.com/kiwicom/orbit).
+
+---
+
 ## Setup
 
 Install:
